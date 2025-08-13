@@ -1,4 +1,8 @@
 ## Hi there 👋
+I am Ritik Pandey.
+i am experienced in Python, SQL, PowerBI and React.js
+i am currently learning Data Analytics and Machine Learning.
+I am student of Bachelor of Technology in Computer Science Engineering specialisation in Artificial Intelligence.
 
 <!--
 **Ritik-Pandey18/Ritik-Pandey18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
