@@ -1,7 +1,7 @@
 ## Hi there 👋
-I am Ritik Pandey.
-I am experienced in Python, SQL, PowerBI and React.js
-I am currently learning Data Analytics and Machine Learning.
+I am Ritik Pandey. <br>
+I am experienced in Python, SQL, PowerBI and React.js<br>
+I am currently learning Data Analytics and Machine Learning.<br>
 I am student of Bachelor of Technology in Computer Science Engineering specialisation in Artificial Intelligence.
 
 <!--
